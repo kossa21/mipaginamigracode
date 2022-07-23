@@ -11,8 +11,8 @@ body {
 h1 {
   /*background-color: #0d042b;
   color: #c7bee6;*/
-  background-color: #b84000;
-  color: #fc9a65;
+  background-color: #6313aa;
+  color: #ffffff;
   margin: 0;
   text-align: center;
   padding: 10px;
@@ -25,12 +25,17 @@ img {
   border: 1px solid #8a8780;
 }
 
-strong, em, span, h2, h4 {
+strong,
+em,
+span,
+h2,
+h4 {
   /*color: #0d042b;*/
-  color: #b84000;
+  color: #0300b8;
 }
 
-.container-for-images, .container-for-spans {
+.container-for-images,
+.container-for-spans {
   width: 1000px;
   margin: auto;
   padding-top: 10px;
@@ -46,7 +51,7 @@ span {
 }
 
 li {
-  color: #b84000;
+  color: #4d00b8;
   line-height: 1.5;
 }
 
